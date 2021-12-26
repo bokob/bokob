@@ -11,6 +11,18 @@ However, I am studying because I still lack a lot of coding skills.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqorwns3)](https://solved.ac/bqorwns3/)
 
 ## 자주 이용하는 사이트
+| 사이트 | 주소 |
+| ------ | ------ |
+| 충북대학교 | https://www.chungbuk.ac.kr/site/www/main.do |
+| 개신누리 | https://eis.cbnu.ac.kr/cbnuLogin |
+| SW 홈페이지 | https://sw7up.cbnu.ac.kr/home |
+| 컴퓨터공학과| https://computer.chungbuk.ac.kr/|
+| 네이버 | https://www.naver.com/ |
+| 백준   | https://www.acmicpc.net/|
+
+
+
+
 
 [![Google Badge](https://img.shields.io/badge/Google-3366FF?style=flat-square&logo=google&link=https://www.google.co.kr/)](https://www.google.co.kr/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&link=https://github.com/)](https://github.com/)
 
