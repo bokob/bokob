@@ -8,6 +8,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bokob)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 유용한 사이트
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/)
-
-???
+[![Google Badge](https://img.shields.io/badge/Google-3366FF?style=flat-square&logo=google&link=https://www.google.co.kr/)](https://www.google.co.kr/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/) [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&link=https://github.com/)](https://github.com/)
