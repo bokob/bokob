@@ -1,6 +1,4 @@
 # Hi
-Hello, my dream is to be a game developer.
-However, I am studying because I still lack a lot of coding skills.
 
 ## 나도 코딩 잘하고 싶다
 
