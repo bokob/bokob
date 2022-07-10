@@ -1,8 +1,10 @@
 # Hi
 
 ## 나도 코딩 잘하고 싶다
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+// ?username=bokob
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bokob)](https://github.com/anuraghazra/github-readme-stats)
 
