@@ -3,12 +3,11 @@
 ## 나도 코딩 잘하고 싶다
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-// ?username=bokob
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokob)](https://github.com/bokob/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bokob)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bokob)](https://github.com/bokob/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqorwns3)](https://solved.ac/bqorwns3/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/bqorwns3)
 
 ## 자주 이용하는 사이트
 | 사이트 | 주소 |
