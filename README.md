@@ -1,7 +1,7 @@
 # Hi
 
 ## 나도 코딩 잘하고 싶다
-
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bokob)](https://github.com/anuraghazra/github-readme-stats)
