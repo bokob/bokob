@@ -7,8 +7,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bokob)](https://github.com/bokob/github-readme-stats)
 
-//[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqorwns3)](https://solved.ac/bqorwns3)
-
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqorwns3)](https://solved.ac/bqorwns3)
+ -->
+ 
 ## 자주 이용하는 사이트
 | 사이트 | 주소 |
 | ------ | ------ |
